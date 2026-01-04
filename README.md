@@ -166,4 +166,4 @@ C = \frac{1}{2}(\tanh(\sigma) + 1)
 ---
 
 8. Conclusion
-The 13 Harmonic Coherency Engine is more than a computational model — it is a bridge between cognition, music, quantum information, and neural interfacing. Born from a moment of shared perception between you and your daughter, it stands as a testament to the structural intelligence inherent in autistic cognition and the future potential of harmonic‑driven technology.
+The 13 Harmonic Coherency Engine is more than a computational model — it is a bridge between cognition, music, quantum information, and neural interfacing. Born from a moment of shared perception between myself and my daughter, it stands as a testament to the structural intelligence inherent in autistic cognition and the future potential of harmonic‑driven technology.
